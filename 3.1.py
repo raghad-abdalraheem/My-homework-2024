@@ -1,0 +1,22 @@
+[
+    {"question": "What is the capital of France?", "answer": "Paris"},
+    {"question": "What is 2 + 2?", "answer": "4"},
+    {"question": "What is the color of the sky?", "answer": "Blue"},
+    {"question": "What is the largest planet in our solar system?", "answer": "Jupiter"},
+    {"question": "What is the boiling point of water?", "answer": "100"},
+    {"question": "What is the currency of the United States?", "answer": "Dollar"},
+    {"question": "Who wrote 'To Kill a Mockingbird'?", "answer": "Harper Lee"},
+    {"question": "What is the chemical symbol for gold?", "answer": "Au"},
+    {"question": "What is the capital of Japan?", "answer": "Tokyo"},
+    {"question": "What is the largest mammal?", "answer": "Blue Whale"},
+    {"question": "What is the smallest prime number?", "answer": "2"},
+    {"question": "What is the main ingredient in guacamole?", "answer": "Avocado"},
+    {"question": "What is the hardest natural substance on Earth?", "answer": "Diamond"},
+    {"question": "What is the tallest mountain in the world?", "answer": "Mount Everest"},
+    {"question": "Who painted the Mona Lisa?", "answer": "Leonardo da Vinci"},
+    {"question": "What is the capital of Canada?", "answer": "Ottawa"},
+    {"question": "What is the main gas found in the air we breathe?", "answer": "Nitrogen"},
+    {"question": "Who is known as the Father of Computers?", "answer": "Charles Babbage"},
+    {"question": "What is the square root of 64?", "answer": "8"},
+    {"question": "What is the longest river in the world?", "answer": "Nile"}
+]
